@@ -13,7 +13,6 @@ public class Cliente {
     }
 
     // Construtor: tem o mesmo nome da classe e não possui retorno
-
     public Cliente(String nome) {
         this.nome = nome;
     }
